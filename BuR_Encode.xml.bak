@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+       <!-- Beginning of German og; the overall text will be in German, for now this will be marked individually -->
+         <p><foreign xml:lang="de">„Das Wesen der deutschen Erneuerung besteht darin, sich einzufügen in die ewigen aristokratischen Naturgesetze des Blutes und durch eine bewusste Auslese das willensmässig Starke und Schöpferische wieder an die Spitze zu führen.”</foreign></p> 
+         <!-- End of German og -->
+         <!--English translation--> <p>The essence of German renewal involves fitting into the eternal aristocratic natural laws of blood and, through a conscious choice, leading the strong-willed and creative back to the top.</p> <!-- End of English translation -->
+         <p><name type="person">Alfred Rosenberg</name></p> <!--original quoter-->
+         <p><foreign xml:lang="de">Unter dem Namen des Führers schlotz sich eine Jugend zusammen, die bereit war, seine Idee zu leben. Wir fühlten, dass wir Deutsche auf Grund des gemeinsamen Blutes zu einer noch Klassenhass zersprengen kann. Wir bejahten die Werte, die nordischen Wesen entspringen und nun die Grundlage des ersten Germanenstaates deutscher Nation bilden. Wir lernten, auf die Stimme des Blutes zu hören, und ordneten uns seinen Gesetzen unter. Es war selbstverständlich, dass sich auch das deutsche Mädel zu Blut und Rasse bekannte. Denn wir Mädel tragen die Verantwortung dafür, dass kommende Geschlechter würdig sind, ein großes Erbe zu übernehmen, damit es nicht einst heißt: Deutschlands Männer erkämpften eine großen Staat – seine Frauen ließen ihn verderben. Was frühere Frauengenerationen durch ihre Instinktlosigkeit gekündigt haben, wollen wir aus bewusster Erkenntnis heraus wieder gutmachen durch stete Opferbereitschaft für die höchste Ehre: die Ehre unseres deutschen Blutes!</foreign></p>
+         <p>Under the name of the Führer, youth banded together and was ready to live his idea. We felt that because of our common blood, we Germans could smash even more class hatred. We affirmed the values that spring from Nordic beings and now form the basis of the first German state of the German nation. We learned to listen to the voice of the blood and submit to its laws. It was a matter of course that the German girl also confessed to blood and race. Because we girls are responsible for ensuring that future generations are worthy of taking on a great inheritance, so that one day it will not be said: Germany's men fought for a great state - its women let it go to waste. What previous generations of women have denounced through their lack of instinct, we want to make good out of conscious awareness through constant willingness to make sacrifices for the highest honor: the honor of our German blood!</p>
+         <p><foreign xml:lang="de">Die Große Zeit, in der wir leben, fordert von jeder einzelnen großzügiges Denken. Nicht um die kleine Persönlichkeit geht es, sondern um den Bestand unseres Volkes, um seine rassische Wiedergeburt. Jede von uns muss deshalb wenigstens in den Grundzügen der Rassenkunde, Vererbungslehre und Rassenpflege geschult sein. Erst dann wird sie dazu bereit sein, das eigene Leben aus diesen Erkenntnissen heraus zu gestalten. Denn: Allein die Tat ist entscheidend!</foreign></p>
+         <p>The great time in which we live demands generous thinking from each individual. It is not about the small personality, but about the existence of our people, about its racial rebirth. Each of us must therefore be trained at least in the basics of racial science, genetics, and racial care. Only then will she be ready to shape her own life based on this knowledge. Because: Facts alone are critical!</p>
+         <p><foreign xml:lang="de">Rassenkunde</foreign></p>
+         <p>Racial Science</p>
+         <p><foreign xml:lang="de">Der Begriff „Rasse“</foreign></p>
+            <p>The Term "Race"</p>
+         <p><foreign xml:lang="de">Die Natur bietet scheinbar das Bild eines unübersehbaren Durcheinanders. Ein kleines Stück Land ernährt eine Unzahl von Pflanzen und Tieren, ein kleiner See birgt unendlich viele Lebewesen. Hinter der Vielfalt der Formen steht jedoch eine Ordnung, die nach ganz bestimmten Gesetzen die einzelnen Arten in der Tier- und Pflanzenwelt voneinander trennt. Nie würden sich Hund und Affe ober Eiche und Linde untereinander vermischen. Jede Art ist innerlich abgeschlossen von der anderen. Ihre Eigenart vererbt sie an ihre Nachkommen weiter. Innerhalb dieser Arten gibt es wiederum Gruppen, die Rassen. Auch sie folgen denselben Gesetzen wie jene. Nur reinrassige Lebewesen sind schön und harmonisch gebaut und sin auch wirklich wertvoll. Der Mischling, der Bastard, ist in jedem Falle minderwertig. Die Natur scheidet ihn bald aus, sei es, dass er im Kampf gegen starke, gesunde Lebewesen unterliegt, sei es, dass er unfähig ist, sich fortzupflanzen.</foreign></p>
+         <p>Nature seems to offer the picture of an unmissable mess. A small piece of land feeds a myriad of plants and animals, a small lake harbors an infinite number of creatures. Behind the variety of forms, however, there is an order that separates the individual species in the animal and plant world from one another according to very specific laws. A dog and a monkey would never mix with each other above oak and linden tree. Each species is internally isolated from the other. She passes her personality on to her offspring. Within these species there are in turn groups, the races. They too follow the same laws as they do. Only purebred creatures are beautifully and harmoniously built and are really valuable. The half-breed, the bastard, is in any case inferior. Nature soon eliminates him, either because he succumbs to strong, healthy creatures or because he is unable to reproduce.</p>
+      </body>
+  </text>
+</TEI>
