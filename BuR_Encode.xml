@@ -32,7 +32,7 @@
             <bibl>
                <editor>BDM History Archive</editor>
                <address>
- <addrLine>https://bdmhistory.com/primary-sources/bdm-handbook/</addrLine>
+                  <addrLine>https://bdmhistory.com/primary-sources/bdm-handbook/</addrLine>
                </address>
                <publisher>Ludwig Voggenreiter Verlag</publisher>
                <date>June 1934</date>
@@ -47,10 +47,13 @@
            </interpretation>
            <normalization method="markup">
               <p>
-                 Original German spelling conventions were maintained from the original document. Original German characters maintained, including umlauts and esset
+                 Original German spelling and grammar conventions were maintained from the original document. Original German characters maintained, including umlauts and esset. 
               </p>
            </normalization>
         </editorialDecl>
+        <p>
+           This project is a chapter from the Bund Deutscher Maedel (BDM) handbook originally published in Nazi Germany in 1934. It was given to young girls ages 10-14 who joined the female division of the Hitler Youth (BDM) as a general manual to becoming appropriate Nazi German citizens. The handbook provides insight to the breadth of Nazi propaganda aimed at children. This chapter was selected for its overt racial propaganda, a subject the authors deemed appropriate for adolescent girls. Reading and understanding such documents allows us to recognize the subversive nature of racialized and fascist propaganda. The chapter selected was between one on first aid and another on children's folk songs, indicating that it was perceived as an essential part to young girls' education.
+        </p>
      </encodingDesc>
   </teiHeader>
   <text>
@@ -68,10 +71,10 @@
             - Alfred Rosenberg
          </name></p> 
          <p><foreign xml:lang="de">
-            Unter dem Namen des Führers schlotz sich eine Jugend zusammen, die bereit war, seine Idee zu leben. Wir fühlten, dass wir Deutsche auf Grund des gemeinsamen Blutes zu einer noch Klassenhass zersprengen kann. Wir bejahten die Werte, die nordischen Wesen entspringen und nun die Grundlage des ersten Germanenstaates deutscher Nation bilden. Wir lernten, auf die Stimme des Blutes zu hören, und ordneten uns seinen Gesetzen unter. Es war selbstverständlich, dass sich auch das deutsche Mädel zu Blut und Rasse bekannte. Denn wir Mädel tragen die Verantwortung dafür, dass kommende Geschlechter würdig sind, ein großes Erbe zu übernehmen, damit es nicht einst heißt: Deutschlands Männer erkämpften eine großen Staat – seine Frauen ließen ihn verderben. Was frühere Frauengenerationen durch ihre Instinktlosigkeit gekündigt haben, wollen wir aus bewusster Erkenntnis heraus wieder gutmachen durch stete Opferbereitschaft für die höchste Ehre: die Ehre unseres deutschen Blutes!
+            Unter dem Namen <persName>des Führers</persName> schlotz sich eine Jugend zusammen, die bereit war, seine Idee zu leben. Wir fühlten, dass wir Deutsche auf Grund des gemeinsamen Blutes zu einer noch Klassenhass zersprengen kann. Wir bejahten die Werte, die nordischen Wesen entspringen und nun die Grundlage des ersten Germanenstaates deutscher Nation bilden. Wir lernten, auf die Stimme des Blutes zu hören, und ordneten uns seinen Gesetzen unter. Es war selbstverständlich, dass sich auch das deutsche Mädel zu Blut und Rasse bekannte. Denn wir Mädel tragen die Verantwortung dafür, dass kommende Geschlechter würdig sind, ein großes Erbe zu übernehmen, damit es nicht einst heißt: <placeName>Deutschlands</placeName> Männer erkämpften eine großen Staat – seine Frauen ließen ihn verderben. Was frühere Frauengenerationen durch ihre Instinktlosigkeit gekündigt haben, wollen wir aus bewusster Erkenntnis heraus wieder gutmachen durch stete Opferbereitschaft für die höchste Ehre: die Ehre unseres deutschen Blutes!
          </foreign></p>
          <p>
-            Under the name of the Führer, youth banded together and was ready to live his idea. We felt that because of our common blood, we Germans could smash even more class hatred. We affirmed the values that spring from Nordic beings and now form the basis of the first German state of the German nation. We learned to listen to the voice of the blood and submit to its laws. It was a matter of course that the German girl also confessed to blood and race. Because we girls are responsible for ensuring that future generations are worthy of taking on a great inheritance, so that one day it will not be said: Germany's men fought for a great state - its women let it go to waste. What previous generations of women have denounced through their lack of instinct, we want to make good out of conscious awareness through constant willingness to make sacrifices for the highest honor: the honor of our German blood!
+            Under the name of <persName>the Führer,</persName> youth banded together and was ready to live his idea. We felt that because of our common blood, we Germans could smash even more class hatred. We affirmed the values that spring from Nordic beings and now form the basis of the first German state of the German nation. We learned to listen to the voice of the blood and submit to its laws. It was a matter of course that the German girl also confessed to blood and race. Because we girls are responsible for ensuring that future generations are worthy of taking on a great inheritance, so that one day it will not be said: <placeName>Germany's</placeName>men fought for a great state - its women let it go to waste. What previous generations of women have denounced through their lack of instinct, we want to make good out of conscious awareness through constant willingness to make sacrifices for the highest honor: the honor of our German blood!
          </p>
          <p><foreign xml:lang="de">
             Die Große Zeit, in der wir leben, fordert von jeder einzelnen großzügiges Denken. Nicht um die kleine Persönlichkeit geht es, sondern um den Bestand unseres Volkes, um seine rassische Wiedergeburt. Jede von uns muss deshalb wenigstens in den Grundzügen der Rassenkunde, Vererbungslehre und Rassenpflege geschult sein. Erst dann wird sie dazu bereit sein, das eigene Leben aus diesen Erkenntnissen heraus zu gestalten. Denn: Allein die Tat ist entscheidend!
@@ -101,16 +104,16 @@
                   Nature seems to offer the picture of an unmissable mess. A small piece of land feeds a myriad of plants and animals, a small lake harbors an infinite number of creatures. Behind the variety of forms, however, there is an order that separates the individual species in the animal and plant world from one another according to very specific laws. A dog and a monkey would never mix with each other above oak and linden tree. Each species is internally isolated from the other. She passes her personality on to her offspring. Within these species there are in turn groups, the races. They too follow the same laws as they do. Only purebred creatures are beautifully and harmoniously built and are really valuable. The half-breed, the bastard, is in any case inferior. Nature soon eliminates him, either because he succumbs to strong, healthy creatures or because he is unable to reproduce.
                </p>
                <p><foreign xml:lang="de">
-                  Auch die Art „Mensch“ gliedert sich in verschiedene Rassen. Nach Gunther verstehen wir unter Menschenrasse eine Gruppe von Menschen, „die sich durch die ihr eignende Vereinigung leiblicher Merkmale und seelischer Eigenschaften von jeder anderen (in solcher Weife zusammengefassten) Menschengruppe unterscheidet und immer wieder nur ihresgleichen zeugt“. Eine Rasse ist also in sich erbgleiche Menschengruppe. Innerhalb einer Rasse müssen die Menschen in allen Anlagen übereinstimmen, und diese Eigenschaften vererben sie weiter. Die Gesamtheit der Erbanlagen nennen wir „Erbmasse“.
+                  Auch die Art „Mensch“ gliedert sich in verschiedene Rassen. Nach <persName>Gunther</persName> verstehen wir unter Menschenrasse eine Gruppe von Menschen, „die sich durch die ihr eignende Vereinigung leiblicher Merkmale und seelischer Eigenschaften von jeder anderen (in solcher Weife zusammengefassten) Menschengruppe unterscheidet und immer wieder nur ihresgleichen zeugt“. Eine Rasse ist also in sich erbgleiche Menschengruppe. Innerhalb einer Rasse müssen die Menschen in allen Anlagen übereinstimmen, und diese Eigenschaften vererben sie weiter. Die Gesamtheit der Erbanlagen nennen wir „Erbmasse“.
                </foreign></p>
                <p>
-                  The human species is also divided into different races. According to Gunther, we understand the human race to be a group of people "which differs from every other group of people (combined in such a way) through their own combination of physical characteristics and mental characteristics and only produces their own kind over and over again." A race is a group of people with the same hereditary status. Within a race, people must agree in all traits, and these traits are passed on. We call the entirety of the hereditary assets “genetic assets.”
+                  The human species is also divided into different races. According to <persName>Gunther,</persName> we understand the human race to be a group of people "which differs from every other group of people (combined in such a way) through their own combination of physical characteristics and mental characteristics and only produces their own kind over and over again." A race is a group of people with the same hereditary status. Within a race, people must agree in all traits, and these traits are passed on. We call the entirety of the hereditary assets “genetic assets.”
                </p>
                <p><foreign xml:lang="de">
-                  Es gibt hetz keine Rassen mehr, die dem reinen wissenschaftlichen Begriff entsprechen, sondern nur noch Rassengemische, die Völker. In Europa unterscheiden sich die einzelnen Völker, die wir als „Weiße“ bezeichnen, nur durch das Mischungsverhältnis Rassen voneinander. Ihre Eigenart beruht auf dem Vorwiegen einer bestimmten Rasse. Auch in Deutschland sind alle europäischen Hauptrassen vertreten: die nordische, ostische, dinarische, ostbaltische und westische; dazu kommen Einschläge der fälischen und sudetischen sowie einiger Fremdrassen.
+                  Es gibt hetz keine Rassen mehr, die dem reinen wissenschaftlichen Begriff entsprechen, sondern nur noch Rassengemische, die Völker. In <placeName>Europa</placeName> unterscheiden sich die einzelnen Völker, die wir als „Weiße“ bezeichnen, nur durch das Mischungsverhältnis Rassen voneinander. Ihre Eigenart beruht auf dem Vorwiegen einer bestimmten Rasse. Auch in <placeName>Deutschland</placeName> sind alle europäischen Hauptrassen vertreten: <orgName type="ethnicity">die nordische,</orgName> <orgName type="ethnicity">ostische,</orgName> <orgName type="ethnicity">dinarische,</orgName> <orgName type="ethnicity">ostbaltische</orgName> und <orgName type="ethnicity">westische;</orgName> dazu kommen Einschläge <orgName type="ethnicity">der fälischen</orgName> und <orgName type="ethnicity">sudetischen</orgName> sowie einiger Fremdrassen.
                </foreign></p>
                <p>
-                  There are no longer any races that correspond to the pure scientific concept, but only mixtures of races, the peoples. In Europe, the individual peoples that we call "whites" only differ from each other in the mix of races. Their peculiarity is based on the predominance of a certain breed. All the main European races are also represented in Germany: the Nordic, Eastern, Dinaric, Eastern Baltic and Western; in addition there are touches of the Falic and southern races as well as some foreign races.
+                  There are no longer any races that correspond to the pure scientific concept, but only mixtures of races, the peoples. In <placeName>Europe,</placeName> the individual peoples that we call "whites" only differ from each other in the mix of races. Their peculiarity is based on the predominance of a certain breed. All the main European races are also represented in <placeName>Germany</placeName>: <orgName type="ethnicity">the Nordic,</orgName> <orgName type="ethnicity">Eastern,</orgName> <orgName type="ethnicity">Dinaric,</orgName> <orgName type="ethnicity">Eastern Baltic</orgName> and <orgName type="ethnicity">Western;</orgName> in addition there are touches of <orgName type="ethnicity">the Falic</orgName> and <orgName type="ethnicity">southern races</orgName> as well as some foreign races.
                </p>
          </div>
          <div type="part"> <!-- Issue with the subheadings here -->
@@ -122,123 +125,127 @@
                The Characteristics of the Primary European Races
                (Ordered according to their numerical strength in Germany)
             </head>
-            <head type="sub"><foreign xml:lang="de">
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
                a)	Die nordische Rasse 
-            </foreign></head>
-            <head type="sub">
+            </orgName></foreign></head>
+            <head type="sub"><orgName type="ethnicity">
                The Nordic Race
-            </head>
+            </orgName></head>
             <p><foreign xml:lang="de">
-               Sie ist mit etwa 50 Prozent in Deutschlands vertreten. Kein nordisch-germanische Menschen gibt es hier aber nur 6 bis 8 Prozent. Ihre durchschnittliche Große beträgt etwa 1.74 m. Sie sind also hochgewachsen, dazu schlank gebaut. Der Kopf ist lang, d.h. die Kopfbreite entspricht höchstens 80 Prozent der Kopflänge. Dieses Verhältnis, das eine große Rolle in der Rassenforschung spielt, bezeichnet man als „Kopfinder“. Stirn, Nase und das betonte Kinn sind schmal, wie auch das ganze Gesicht schmal wirkt. Scharasteristisch ist das aufgewölbte Hinterhaupt. Die Augenöffenungen sind weit; dadurch erscheint das Auge groß. Die Augenfarbe ist blau, blaugrau oder grau. Die Haut ist rosig-hell, das Blut schimmert durch, das weiche Haar fällt schlicht oder wellig. Seine Farbe ist hell- bis dunkelblond.
+               Sie ist mit etwa 50 Prozent in <placeName>Deutschlands</placeName> vertreten. Kein <orgName type="ethnicity">nordisch-germanische Menschen</orgName> gibt es hier aber nur 6 bis 8 Prozent. Ihre durchschnittliche Große beträgt etwa 1.74 m. Sie sind also hochgewachsen, dazu schlank gebaut. Der Kopf ist lang, d.h. die Kopfbreite entspricht höchstens 80 Prozent der Kopflänge. Dieses Verhältnis, das eine große Rolle in der Rassenforschung spielt, bezeichnet man als „Kopfinder“. Stirn, Nase und das betonte Kinn sind schmal, wie auch das ganze Gesicht schmal wirkt. Scharasteristisch ist das aufgewölbte Hinterhaupt. Die Augenöffenungen sind weit; dadurch erscheint das Auge groß. Die Augenfarbe ist blau, blaugrau oder grau. Die Haut ist rosig-hell, das Blut schimmert durch, das weiche Haar fällt schlicht oder wellig. Seine Farbe ist hell- bis dunkelblond.
             </foreign></p>
             <p>
-               It is represented by about 50 percent in Germany. There are no Nordic-Germanic people here, only 6 to 8 percent. Your average height is about 1.74 m. So you are tall and slim built. The head is long, i.e. the width of the head is at most 80 percent of the length of the head. This relationship, which plays a major role in racial research, is referred to as a "head Indian." Forehead, nose and the prominent chin are narrow, as is the whole face. The bulging occiput is characteristic. The eye openings are wide, making the eyes appear large. The eye color is blue, blue-gray, or gray. The skin is light and rosy, the blood shimmers through, the soft hair falls straight or wavy. Its color is light to dark blonde.
+               It is represented by about 50 percent in <placeName>Germany.</placeName> There are no <orgName type="ethnicity">Nordic-Germanic people</orgName> here, only 6 to 8 percent. Your average height is about 1.74 m. So you are tall and slim built. The head is long, i.e. the width of the head is at most 80 percent of the length of the head. This relationship, which plays a major role in racial research, is referred to as a "head Indian." Forehead, nose and the prominent chin are narrow, as is the whole face. The bulging occiput is characteristic. The eye openings are wide, making the eyes appear large. The eye color is blue, blue-gray, or gray. The skin is light and rosy, the blood shimmers through, the soft hair falls straight or wavy. Its color is light to dark blonde.
             </p>
             <p><foreign xml:lang="de">
-               Der nordische Mensch ist auf allen Gebieten der Wissenschaft und Kunft, Technik und Erfindung führend, kraft einer großen schöpferischen Begabung. Ihm ist der menschliche Fortschritt überhaupt zu danken. Die größten Politiker und Staatsmänner sind nordisch bedingt, in der Kunft erscheint als Idealbild immer wieder die Gestalt des norischen Menschen. Denn Leib und Seele bilden bei den reinrassigen Menschen eine Einheit. Einem Menschen, der nordische Werte und Fähigkeiten in sich trägt, wird der Künstler folglich nordische Gestalt geben. Kühnheit und Willenskraft prägen den nordischen Charakter. Die heldische Haltung entspricht keinem innersten Wesen. Gefahren sind ihm nur Anreiz zu neuen Taten. Starker Wirklichkeitssinn paart sich mit idealistischem Streben. Der nordische Mensch ist im allgemeinen ruhig und zurückhaltend. Er reist später als andere Rasen, bleibt aber dafür länger jung. Er neigt zu Leichtsinn und Verschwendungssucht.
+               <orgName type="ethnicity">Der nordische Mensch</orgName> ist auf allen Gebieten der Wissenschaft und Kunft, Technik und Erfindung führend, kraft einer großen schöpferischen Begabung. Ihm ist der menschliche Fortschritt überhaupt zu danken. Die größten Politiker und Staatsmänner sind nordisch bedingt, in der Kunft erscheint als Idealbild immer wieder die Gestalt <orgName type="ethnicity">des nordischen Menschen.</orgName> Denn Leib und Seele bilden bei den reinrassigen Menschen eine Einheit. Einem Menschen, der nordische Werte und Fähigkeiten in sich trägt, wird der Künstler folglich nordische Gestalt geben. Kühnheit und Willenskraft prägen den nordischen Charakter. Die heldische Haltung entspricht keinem innersten Wesen. Gefahren sind ihm nur Anreiz zu neuen Taten. Starker Wirklichkeitssinn paart sich mit idealistischem Streben. <orgName type="ethnicity">Der nordische Mensch</orgName> ist im allgemeinen ruhig und zurückhaltend. Er reist später als andere Rasen, bleibt aber dafür länger jung. Er neigt zu Leichtsinn und Verschwendungssucht.
             </foreign></p>
             <p>
-               The Nordic man is at the forefront in all fields of science and art, technology and invention, by virtue of a great creative talent. All human progress is to be thanked for. The greatest politicians and statesmen are Nordic in origin; in the future, the figure of the Norse man appears again and again as an ideal image. Because body and soul form a unit in purebred people. Consequently, the artist will give Nordic form to a person who carries Nordic values and abilities within them. Boldness and willpower characterize the Nordic character. The heroic attitude does not correspond to any innermost being. Dangers are only an incentive for new deeds. Strong sense of reality coupled with idealistic striving. The Nordic person is generally quiet and reserved. It travels later than other grasses, but stays young longer. He tends to be careless and extravagant.
+               <orgName type="ethnicity">The Nordic man</orgName> is at the forefront in all fields of science and art, technology and invention, by virtue of a great creative talent. All human progress is to be thanked for. The greatest politicians and statesmen are Nordic in origin; in the future, the figure of <orgName type="ethnicity">the Nordic man</orgName> appears again and again as an ideal image. Because body and soul form a unit in purebred people. Consequently, the artist will give Nordic form to a person who carries Nordic values and abilities within them. Boldness and willpower characterize the Nordic character. The heroic attitude does not correspond to any innermost being. Dangers are only an incentive for new deeds. Strong sense of reality coupled with idealistic striving. <orgName type="ethnicity">The Nordic person</orgName> is generally quiet and reserved. It travels later than other grasses, but stays young longer. He tends to be careless and extravagant.
             </p>
          </div>
          <div type="part">
-            <head type="sub"><foreign xml:lang="de">
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
                b)	 Die ostische Rasse
-            </foreign></head>
-            <head type="sub"> 
+            </orgName></foreign></head>
+            <head type="sub"><orgName type="ethnicity"> 
                The Eastern Race
-            </head>
+            </orgName></head>
             <p><foreign xml:lang="de">
-               Ihr Anteil an der deutschen Bevölkerung betragt ungefähr 20 Prozent. Sie ist das Gegenteil zur nordischen Rasse – schon im Äußeren. Der ostische Mensch ist kurz und gedrungen gebaut. Im Durchschnitt ist er 1.63 Meter groß. Der runde Kopf ruht auf einem starken Hals („Stiernacken“). Das Gesicht wirkt flach, die Nase kurz und breit. Die Lippen sind dick, das Kinn breit. Haar und Augenfarbe sind braun bis schwarzbraun, die Haut ist gelblich getönt. Auch die seelischen Eigenschaften, sind denen der norischen Rasse entgegengefetzt. Der ostische Mensch ist der geborene „Spießbürger“: Sein Horizont ist eng umgrenzt, seine schöpferische Unfähigkeit lässt ihn den goldenen Mittelweg gehen, dem die Masse folgt. Er lebt nur im Alltag, große Ziele können ihn nicht begeistern. Seine Kritik erschöpft sich in kleinlicher Nörgelfucht. Im allgemeinen ist er der brave Untertan. Er ist fleißig und genügsam. (Er sorgt für seine Familie).
+               Ihr Anteil an der deutschen Bevölkerung betragt ungefähr 20 Prozent. Sie ist das Gegenteil zur <orgName type="ethnicity">nordischen Rasse</orgName> – schon im Äußeren. <orgName type="ethnicity">Der ostische Mensch</orgName> ist kurz und gedrungen gebaut. Im Durchschnitt ist er 1.63 Meter groß. Der runde Kopf ruht auf einem starken Hals („Stiernacken“). Das Gesicht wirkt flach, die Nase kurz und breit. Die Lippen sind dick, das Kinn breit. Haar und Augenfarbe sind braun bis schwarzbraun, die Haut ist gelblich getönt. Auch die seelischen Eigenschaften, sind denen <orgName type="ethnicity">der nordischen Rasse</orgName> entgegengefetzt. <orgName type="ethnicity">Der ostische Mensch</orgName> ist der geborene „Spießbürger“: Sein Horizont ist eng umgrenzt, seine schöpferische Unfähigkeit lässt ihn den goldenen Mittelweg gehen, dem die Masse folgt. Er lebt nur im Alltag, große Ziele können ihn nicht begeistern. Seine Kritik erschöpft sich in kleinlicher Nörgelfucht. Im allgemeinen ist er der brave Untertan. Er ist fleißig und genügsam. (Er sorgt für seine Familie).
             </foreign></p>
             <p>
-               They make up about 20 percent of the German population. It is the opposite of the Nordic race - even on the outside. The Eastern man is built short and squat. On average, he is 1.63 meters tall. The round head rests on a strong neck ("bull's neck"). The face appears flat, the nose short and broad. The lips are thick, the chin wide. Hair and eye color are brown to black-brown, the skin is yellowish toned. The mental qualities are also opposed to those of the Norian race. The Eastern man is the born "Philistine": his horizon is narrowly defined, his creative inability allows him to go the golden mean path, which the masses follow. He only lives in everyday life, big goals cannot inspire him. His criticism exhausts itself in petty nagging. In general he is the good subject. He is hardworking and frugal. (He takes care of his family).
+               They make up about 20 percent of the German population. It is the opposite of <orgName type="ethnicity">the Nordic race</orgName> - even on the outside. <orgName type="ethnicity">The Eastern man</orgName> is built short and squat. On average, he is 1.63 meters tall. The round head rests on a strong neck ("bull's neck"). The face appears flat, the nose short and broad. The lips are thick, the chin wide. Hair and eye color are brown to black-brown, the skin is yellowish toned. The mental qualities are also opposed to those of <orgName type="ethnicity">the Nordic race.</orgName> <orgName type="ethnicity">The Eastern man</orgName> is the born "Philistine": his horizon is narrowly defined, his creative inability allows him to go the golden mean path, which the masses follow. He only lives in everyday life, big goals cannot inspire him. His criticism exhausts itself in petty nagging. In general he is the good subject. He is hardworking and frugal. (He takes care of his family).
             </p>
          </div>
          <div type="part">
-            <head type="sub"><foreign xml:lang="de">
-               Die dinarische Rasse
-            </foreign></head>
-            <head>
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
+               c)  Die dinarische Rasse
+            </orgName></foreign></head>
+            <head><orgName type="ethnicity">
                The Dinaric Race
-            </head>
+           </orgName></head>
             <p><foreign xml:lang="de">
-               Sie ist mit rund 15 Prozent in Deutschlands vertreten. Der Dinarier ist schlank und hochgewachsen (Durchschnitt 1.73 Meter). Der Kopf ist kurz, das Hinterhaupt flach. Das Gesicht ist sehr lang. Bezeichnend ist die große Nase, die stark vorspringt und oft als „Adlernase“ geformt ist. Der Unterkiefer ist weit vorgeschoben. Große Ohren sind häufig. Die Augen sind dunkelbraun bis schwarz, das Kopfhaar fällt schlicht und ist ebenfalls dunkel.
+               Sie ist mit rund 15 Prozent in <placeName>Deutschlands</placeName> vertreten. <orgName type="ethnicity">Der Dinarier</orgName> ist schlank und hochgewachsen (Durchschnitt 1.73 Meter). Der Kopf ist kurz, das Hinterhaupt flach. Das Gesicht ist sehr lang. Bezeichnend ist die große Nase, die stark vorspringt und oft als „Adlernase“ geformt ist. Der Unterkiefer ist weit vorgeschoben. Große Ohren sind häufig. Die Augen sind dunkelbraun bis schwarz, das Kopfhaar fällt schlicht und ist ebenfalls dunkel.
             </foreign></p>
             <p>
-               It is represented with around 15 percent in Germany. The Dinarian is slim and tall (average 1.73 meters). The head is short and the occiput is flat. The face is very long. Characteristic is the large nose, which protrudes strongly and is often shaped like an "eagle nose." The lower jaw is far advanced. Large ears are common. The eyes are dark brown to black, the hair falls simply and is also dark.
+               It is represented with around 15 percent in <placeName>Germany.</placeName> <orgName type="ethnicity">The Dinarian</orgName> is slim and tall (average 1.73 meters). The head is short and the occiput is flat. The face is very long. Characteristic is the large nose, which protrudes strongly and is often shaped like an "eagle nose." The lower jaw is far advanced. Large ears are common. The eyes are dark brown to black, the hair falls simply and is also dark.
             </p>
             <p><foreign xml:lang="de">
-               Der dinarische Mensch zeichnet sich durch ehrliche, gerade Gesinnung aus. Äußerlich erscheint er rauh, doch im Innersten ist er gutmütig. Die Liebe zu Natur und Heimat ist stark ausgeprägt. Eine besondere Begabung für Musik ist kennzeichnend. Viele Tonkünstler sind dinarisch bestimmt. 
+               <orgName type="ethnicity">Der dinarische Mensch</orgName> zeichnet sich durch ehrliche, gerade Gesinnung aus. Äußerlich erscheint er rauh, doch im Innersten ist er gutmütig. Die Liebe zu Natur und Heimat ist stark ausgeprägt. Eine besondere Begabung für Musik ist kennzeichnend. Viele Tonkünstler sind dinarisch bestimmt. 
             </foreign></p>
             <p>
-               The Dinaric man is characterized by an honest, straight disposition. Outside he appears rough, but inside he is good-natured. The love for nature and home is strong. A special talent for music is characteristic. Many artistic sounds are defined in Dinaric terms.
+               <orgName type="ethnicity">The Dinaric man</orgName> is characterized by an honest, straight disposition. Outside he appears rough, but inside he is good-natured. The love for nature and home is strong. A special talent for music is characteristic. Many artistic sounds are defined in Dinaric terms.
             </p>
          </div>
          <div type="part">
             <!--The headings are inconsistent, fix-->
-            <head type="sub"><foreign xml:lang="de">
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
                d)	Die ostbaltische Rasse
-            </foreign> </head>
-            <head type="sub">
+            </orgName></foreign> </head>
+            <head type="sub"><orgName type="ethnicity">
                The East Baltic Race
-            </head>
+            </orgName></head>
             <p><foreign xml:lang="de">
-               Ihr Bevölkerungsanteil beträgt nur 8 Prozent. Im Körperbau ähnelt sie der ostischen Rasse, ihr Erscheinungsbild ist untersetzt und grobknochig. Besonders im Gesicht ist diese Grobknochigkeit betont. Die Stirn ist etwas zurückziehend, die Nase eingebogen. Das graublaue Auge wirkt klein. Die Haut ist hell, aber nicht rosig.  Das straffe Haar zeigt eine aschblonde Färbung.
+               Ihr Bevölkerungsanteil beträgt nur 8 Prozent. Im Körperbau ähnelt sie <orgName type="ethnicity">der ostischen Rasse,</orgName> ihr Erscheinungsbild ist untersetzt und grobknochig. Besonders im Gesicht ist diese Grobknochigkeit betont. Die Stirn ist etwas zurückziehend, die Nase eingebogen. Das graublaue Auge wirkt klein. Die Haut ist hell, aber nicht rosig.  Das straffe Haar zeigt eine aschblonde Färbung.
             </foreign></p>
             <p>
-               Their population is only 8 percent. In physique, it resembles the Eastern race, its appearance is stocky and big-boned. This coarse boning is particularly emphasized in the face. The forehead is somewhat receding, the nose incurved. The grey-blue eye looks small. The skin is fair but not rosy. The taut hair shows an ash blonde coloring.
+               Their population is only 8 percent. In physique, it resembles <orgName type="ethnicity">the Eastern race,</orgName> its appearance is stocky and big-boned. This coarse boning is particularly emphasized in the face. The forehead is somewhat receding, the nose incurved. The grey-blue eye looks small. The skin is fair but not rosy. The taut hair shows an ash blonde coloring.
             </p>
-            <p><foreign xml:lang="de">Die ostbaltischen Menschen sind schwerfällig und Fremden gegenüber misstrauisch. Im Innern sind sie unbefriedigt, wechseln daher leicht in ihren Stimmungen. Sie neigen zu Roheit, aber gegen Angehörige sind sie oft zärtlich.</foreign></p>
-            <p>East Baltic people are slow-moving and suspicious of strangers. Inwardly they are unsatisfied, so their moods change easily. They tend to be rude, but they are often affectionate towards loved ones.</p>
+            <p><foreign xml:lang="de">
+               <orgName type="ethnicity"> Die ostbaltischen Menschen </orgName> sind schwerfällig und Fremden gegenüber misstrauisch. Im Innern sind sie unbefriedigt, wechseln daher leicht in ihren Stimmungen. Sie neigen zu Roheit, aber gegen Angehörige sind sie oft zärtlich.
+            </foreign></p>
+            <p>
+               <orgName type="ethnicity">East Baltic people</orgName> are slow-moving and suspicious of strangers. Inwardly they are unsatisfied, so their moods change easily. They tend to be rude, but they are often affectionate towards loved ones.
+            </p>
          </div>
          <div type="part">
-            <head type="sub"><foreign xml:lang="de">
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
                e)	Die westische Rasse
-            </foreign></head>
-            <head type="sub">
+            </orgName></foreign></head>
+            <head type="sub"><orgName type="ethnicity">
                The Western Race
-            </head>
+           </orgName></head>
             <p><foreign xml:lang="de">
-               In Deutschlands gibt es nur wenig reinrassige Vertreter. Die westische Rasse ist kleinwüchsig (im Durchschnitt 1.60 Meter hoch), aber schlank und zierlich gebaut. Ihre Kopfform ist lang, das Gesicht schmal. Der Gesichtsschnitt ist weich. Die Nase ist schmal und gerade, die Lippen voll. Das dunkle Auge erscheint groß. Die Hauptfarbe ist bräunlich. Das schlichte Haar hat eine schwarzbraune Färbung.
+               In <placeName>Deutschlands</placeName> gibt es nur wenig reinrassige Vertreter. <orgName type="ethnicity">Die westische Rasse</orgName> ist kleinwüchsig (im Durchschnitt 1.60 Meter hoch), aber schlank und zierlich gebaut. Ihre Kopfform ist lang, das Gesicht schmal. Der Gesichtsschnitt ist weich. Die Nase ist schmal und gerade, die Lippen voll. Das dunkle Auge erscheint groß. Die Hauptfarbe ist bräunlich. Das schlichte Haar hat eine schwarzbraune Färbung.
             </foreign></p>
             <p>
-               In Germany there are only a few purebred representatives. The western breed is short in stature (averaging 1.60 meters in height) but is slim and delicately built. Her head is long and her face is narrow. The face cut is soft. The nose is narrow and straight, the lips full. The dark eye appears large. The main color is brownish. The straight hair has a black-brown coloring.
+               In <placeName>Germany</placeName> there are only a few purebred representatives. <orgName type="ethnicity">The western breed</orgName> is short in stature (averaging 1.60 meters in height) but is slim and delicately built. Her head is long and her face is narrow. The face cut is soft. The nose is narrow and straight, the lips full. The dark eye appears large. The main color is brownish. The straight hair has a black-brown coloring.
             </p>
             <p><foreign xml:lang="de">
-               Der westische Mensch ist sehr beweglich und leicht erregbar. Er ist ein guter Schauspieler und entwickelt bei Gelegenheit große Redegewandtheit. Er ist charakterlich nicht sonderlich hochwertig, er neigt zu Oberflächlichkeit und Treulosigkeit. 
+               <orgName type="ethnicity">Der westische Mensch</orgName> ist sehr beweglich und leicht erregbar. Er ist ein guter Schauspieler und entwickelt bei Gelegenheit große Redegewandtheit. Er ist charakterlich nicht sonderlich hochwertig, er neigt zu Oberflächlichkeit und Treulosigkeit. 
             </foreign></p>
             <p>
-               The western man is very mobile and easily excitable. He is a good actor and develops great eloquence on occasion. His character is not particularly high quality, he tends to be superficial and unfaithful.
+               <orgName type="ethnicity"> The western man</orgName> is very mobile and easily excitable. He is a good actor and develops great eloquence on occasion. His character is not particularly high quality, he tends to be superficial and unfaithful.
             </p>
             <p><foreign xml:lang="de">
-               Neben diesen fünf Hauptrassen sind in der deutschen Bevölkerung geringe Einschläge anderer Rassen vorhanden. Die fälische und die sudetische Rasse gehören zu den europäischen Rassen, die untereinander verwandt sind, während Einschläge aus Afrika und Asian den sog. Fremdrassen angehören.
+               Neben diesen fünf Hauptrassen sind in der deutschen Bevölkerung geringe Einschläge anderer Rassen vorhanden. <orgName type="ethnicity">Die fälische</orgName> und <orgName type="ethnicity">die sudetische Rasse</orgName> gehören zu <orgName type="ethnicity">den europäischen Rassen,</orgName> die untereinander verwandt sind, während Einschläge aus Afrika und Asian den sog. Fremdrassen angehören.
             </foreign></p>
             <p>
-               In addition to these five main races, there are small amounts of other races in the German population. The Falic and southern races belong to the European races that are related to each other, while strains from Africa and Asia belong to the so-called foreign races.
+               In addition to these five main races, there are small amounts of other races in the German population. <orgName type="ethnicity">The Falic</orgName> and <orgName type="ethnicity">southern races</orgName> belong to <orgName type="ethnicity">the European races</orgName> that are related to each other, while strains from Africa and Asia belong to the so-called foreign races.
             </p>
          </div>
          <div type="part">
-            <head type="sub"><foreign xml:lang="de">
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
                f)	Die fälische Rasse
-            </foreign></head>
-            <head type="sub">
+            </orgName></foreign></head>
+            <head type="sub"><orgName type="ethnicity">
                The Falic Race
-            </head>
+            </orgName></head>
             <p><foreign xml:lang="de">
-               Sie ist eine Abart der nordischen. Sie ist hochgewachsen, dazu sehr breit und schwer gebaut. Der Kopf ist wuchtig. Die Augenhöhlen liegen tief unter der niedrigen Stirn eingebettet und sind von starken Brauen überschattet. Das Kinn tritt vor. Die Haut ist rosig-weiß, im Gesicht oft rötlich-hell. Die Augen sind blau, das Haar blond mit rötlichem Schimmer. Das Innenleben der fälischen Rasse ist reich. Treue und Gewissenhastigkeit sind stark ausgeprägte Charakterzüge. Der fälische Mensch verfolgt keine Ziele oft geradezu mit Starrsinn. Bezeichnend ist sein Hang zum Grübeln.
+               Sie ist eine Abart <orgName type="ethnicity">der nordischen.</orgName> Sie ist hochgewachsen, dazu sehr breit und schwer gebaut. Der Kopf ist wuchtig. Die Augenhöhlen liegen tief unter der niedrigen Stirn eingebettet und sind von starken Brauen überschattet. Das Kinn tritt vor. Die Haut ist rosig-weiß, im Gesicht oft rötlich-hell. Die Augen sind blau, das Haar blond mit rötlichem Schimmer. Das Innenleben der fälischen Rasse ist reich. Treue und Gewissenhastigkeit sind stark ausgeprägte Charakterzüge. <orgName type="ethnicity">Der fälische Mensch</orgName> verfolgt keine Ziele oft geradezu mit Starrsinn. Bezeichnend ist sein Hang zum Grübeln.
             </foreign></p>
             <p>
-               It is a variant of the Nordic. She is tall, very broad and heavily built. The head is massive. The eye sockets are set deep below the low forehead and are overshadowed by strong brows. The chin protrudes. The skin is rosy-white, often reddish-light on the face. The eyes are blue, the hair blond with a reddish tinge. The inner life of the Falic race is rich. Loyalty and conscientiousness are strong character traits. The falsian often pursues no goals with downright stubbornness. His penchant for brooding is significant.
+               It is a variant of <orgName type="ethnicity">the Nordic.</orgName> She is tall, very broad and heavily built. The head is massive. The eye sockets are set deep below the low forehead and are overshadowed by strong brows. The chin protrudes. The skin is rosy-white, often reddish-light on the face. The eyes are blue, the hair blond with a reddish tinge. The inner life of <orgName type="ethnicity">the Falic race</orgName> is rich. Loyalty and conscientiousness are strong character traits. The falsian often pursues no goals with downright stubbornness. His penchant for brooding is significant.
             </p>
          </div>
          <div type="part">
-            <head type="sub"><foreign xml:lang="de">
+            <head type="sub"><foreign xml:lang="de"><orgName type="ethnicity">
                g)	Die sudetische Rasse 
-            </foreign></head>
-            <head type="sub">
+            </orgName></foreign></head>
+            <head type="sub"><orgName type="ethnicity">
                The Southern Race
-            </head>
+            </orgName></head>
             <p><foreign xml:lang="de">
                Im Durchschnitt sind diese Menschen etwa 1,60 Meter groß. Der Kopf ist eiförmig. Die Stirn ist niedrig und steil gebaut, die Backenbeine treten stark hervor. Das Kinn ist unbetont, die Nase liegt flach im Gesicht. Die Farben sind dunkel. Diese Rasse ist noch wenig erforscht. 
             </foreign></p>
@@ -254,22 +261,22 @@
                Foreign Race Impacts
             </head>
             <p><foreign xml:lang="de">
-               In Süddeutschland beobachten wir einen leichten negerischen Einschlag, der durch Römer und Italiener dort Eingang gefunden hat. Uns allen ist noch in frischer Erinnerung die „Schwarze Schmach“, die Tatsache, dass in den besetzen Rheinlanden deutsche Frauen und Mädel von Negersoldaten aus dem französischen Heere vergewaltigt wurden.
+               In <placeName>Süddeutschland</placeName> beobachten wir einen leichten <orgName type="ethnicity">negerischen</orgName> Einschlag, der durch <orgName type="ethnicity">Römer</orgName> und <orgName type="ethnicity">Italiener</orgName> dort Eingang gefunden hat. Uns allen ist noch in frischer Erinnerung die „Schwarze Schmach“, die Tatsache, dass in den besetzen <placeName>Rheinlanden</placeName> <orgName type="ethnicity">deutsche Frauen und Mädel</orgName> von <orgName type="ethnicity">Negersoldaten</orgName> aus dem <orgName type="ethnicity">französischen</orgName> Heere vergewaltigt wurden.
             </foreign></p>
             <p>
-               In southern Germany we observe a slight Negro influence, which found its way there through the Romans and Italians. We all have fresh memories of the “Black Shame”, the fact that German women and girls were raped by Negro soldiers from the French army in the occupied Rhineland.
+               In <placeName>southern Germany</placeName> we observe a slight <orgName type="ethnicity">Negro</orgName> influence, which found its way there through the <orgName type="ethnicity">Romans</orgName> and <orgName type="ethnicity">Italians.</orgName> We all have fresh memories of the “Black Shame”, the fact that <orgName type="ethnicity">German women and girls</orgName> were raped by <orgName type="ethnicity">Negro</orgName> soldiers from <orgName type="ethnicity">the French</orgName> army in the occupied <placeName>Rhineland.</placeName>
             </p>
             <p><foreign xml:lang="de">
-               Aus Palästina brachte das jüdische Volk, das ein orientalisch-vorderasiatisches Rassengemisch darstellt, fremdes Blut in den deutschen Volkskörper. Die Ostjuden, auch deutsche Juden genannt, weil sie gerade unser Land mit ihrem Besuch beehren, sind vor allem durch die vorderasiatische Rasse bestimmt. Kennzeichen sind: die untersetze, kurze Gestalt, der kurze Kopf mit dem „abgehackten“ Hinterhaupt, die etwas nach vorn liegenden Augen, die 6-förmig gebogene Judennase, das zurückstehende Kinn.
+               Aus <placeName>Palästina</placeName> brachte <orgName type="ethnicity">das jüdische Volk,</orgName> das <placeName>ein orientalisch-vorderasiatisches</placeName> Rassengemisch darstellt, fremdes Blut in den deutschen Volkskörper. <orgName type="ethnicity">Die Ostjuden,</orgName> auch <orgName type="ethnicity">deutsche Juden</orgName> genannt, weil sie gerade unser Land mit ihrem Besuch beehren, sind vor allem durch <orgName type="ethnicity">die vorderasiatische Rasse</orgName> bestimmt. Kennzeichen sind: die untersetze, kurze Gestalt, der kurze Kopf mit dem „abgehackten“ Hinterhaupt, die etwas nach vorn liegenden Augen, die 6-förmig gebogene Judennase, das zurückstehende Kinn.
             </foreign> </p>
             <p>
-               From Palestine, the Jewish people, representing a mixture of races from the Middle East and Near East, brought foreign blood into the German body politic. The Eastern Jews, also called German Jews because they honor our country with their visit, are primarily determined by the Near Eastern race. Characteristics are: the stocky, short figure, the short head with the "chopped off" back of the head, the slightly forward lying eyes, the 6-shaped curved Jewish nose, the receding chin.
+               From <placeName>Palestine,</placeName> <orgName type="ethnicity">the Jewish people,</orgName> representing a mixture of races from the <placeName>Middle East and Near East,</placeName> brought foreign blood into the German body politic. <orgName type="ethnicity">The Eastern Jews,</orgName> also called <orgName type="ethnicity">German Jews</orgName> because they honor our country with their visit, are primarily determined by <orgName type="ethnicity">the Near Eastern race.</orgName> Characteristics are: the stocky, short figure, the short head with the "chopped off" back of the head, the slightly forward lying eyes, the 6-shaped curved Jewish nose, the receding chin.
             </p>
             <p><foreign xml:lang="de">
-               Die seelischen Eigenschaften des Juden sind uns ganz fremd. Seiner Eigenart entspricht es, all die Werte zu zerstören, die nordisches Wesen geschaffen hat. Er ist unfähig, selbst Schöpfer einer Kultur zu werden, denn kein materialistischer Sinn erstrebt eine Weltherrschaft über alle Völker, die er zersetzt hat. Er ist unfähig, über sich selbst hinauszudenken um einer Idee willen. Durch diesen geistig-seelischen Gegenfass zu den anderen Völkern entstand die „Judenfrage“.
+               Die seelischen Eigenschaften <orgName type="ethnicity">des Juden</orgName> sind uns ganz fremd. Seiner Eigenart entspricht es, all die Werte zu zerstören, <orgName type="ethnicity">die nordisches Wesen</orgName> geschaffen hat. Er ist unfähig, selbst Schöpfer einer Kultur zu werden, denn kein materialistischer Sinn erstrebt eine Weltherrschaft über alle Völker, die er zersetzt hat. Er ist unfähig, über sich selbst hinauszudenken um einer Idee willen. Durch diesen geistig-seelischen Gegenfass zu den anderen Völkern entstand die „Judenfrage“.
             </foreign></p>
             <p>
-               The mental qualities of the Jew are completely alien to us. Destroying all the values created by Nordic beings is in keeping with its nature. He is incapable of becoming the creator of a culture himself, because no materialistic sense strives for world domination over all the peoples he has destroyed. He is unable to think beyond himself for the sake of an idea. The “Jewish question” arose from this mental and spiritual antithesis to other peoples.
+               The mental qualities of <orgName type="ethnicity">the Jew</orgName> are completely alien to us. Destroying all the values created by <orgName type="ethnicity">Nordic beings</orgName> is in keeping with its nature. He is incapable of becoming the creator of a culture himself, because no materialistic sense strives for world domination over all the peoples he has destroyed. He is unable to think beyond himself for the sake of an idea. The “Jewish question” arose from this mental and spiritual antithesis to other peoples.
             </p>
          </div>
       </body>
