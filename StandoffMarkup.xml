@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Standoff Markup</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <standOff>
+      <!-- Person Metadata -->
+      <listPerson>
+         <person xml:id="personAHitler">
+            <persName>
+               <forename>Adolf</forename>
+               <surname>Hitler</surname>
+               <roleName type="office">Chancellor</roleName>
+            </persName>
+            <residence>
+               <placeName>
+                  <country>Nazi Germany</country>
+               </placeName>
+            </residence>
+         </person>
+         <person xml:id="personARosenberg">
+            <persName>
+               <forename>Alfred</forename>
+               <surname>Rosenberg</surname>
+               <roleName type="office">Führer's Representative for the Supervision of Intellectual and Ideological Education of the NSDAP</roleName>
+            </persName>
+            <residence>
+               <placeName>
+                  <country>Nazi Germany</country>
+               </placeName>
+            </residence>
+         </person>
+         <person xml:id="HGünther">
+            <persName>
+               <forename>Hans</forename>
+               <surname>Günther</surname>
+            </persName>
+            <occupation>
+               <roleName>Philosopher</roleName>
+               <roleName>Author</roleName>
+               <affiliation>Nazi Party of Germany</affiliation>
+            </occupation>
+            <note>
+               <p>Hans Günther was one of the foremost philosophers that drove Nazi racist ideology. His writings influenced the development of Nazi ideology and he served as the chair of racial theory at Jena while he taught there. His name would have been familiar to anyone involved in Nazi politics.</p>
+            </note>
+         </person>
+      </listPerson>
+      <!-- Places Metadata -->
+      <listPlace>
+         <place xml:id="Germany">
+            <country>Germany</country>
+            <bloc type="continent">Europe</bloc>
+         </place>
+         <place xml:id="Europe">
+            <bloc type="continent">Europe</bloc>
+         </place>
+         <place xml:id="SouthGermany">
+            <placeName>
+            <offset>south</offset>
+            <settlement type="country">Germany</settlement>
+            </placeName>
+         </place>
+         <place xml:id="Rhineland">
+            <region type="area">Rhineland</region>
+         </place>
+         <place xml:id="Palestine">
+            <country>Palestine</country>
+         </place>
+         <place xml:id="MiddleEast">
+            <region>Middle East</region>
+            <bloc type="continent">Asia</bloc>
+         </place>
+      </listPlace>
+      <!-- Organization (ethnicity) Metadata -->
+      <listOrg>
+         <org xml:id="Nordic">
+            <region>
+               <offset>northern</offset>
+               <bloc type="continent">Europe</bloc>
+            </region>
+            <note>
+               The Nazis defined the Nordic people as the "Uebermensch," the ultimate race that should be sought after. They are characterized by fair features.
+            </note>
+         </org>
+         <org xml:id="Eastern">
+            <region>
+               <offset>eastern</offset>
+               <bloc type="continent">Europe</bloc>
+            </region>
+            <name>Slavic</name>
+            <note>Also known as the Slavic people, the Nazis classified the peoples of Eastern Europe in a monolithic group.</note>
+         </org>
+         <org xml:id="Dinaric">
+            <region>
+               <offset>southeast</offset>
+               <bloc type="continent">Europe</bloc>
+            </region>
+            <name>Adriatic</name>
+            <note>Also called the Adriatic people, this race as defined by the Nazis occupied mostly parts of southern and southeastern Europe.</note>
+         </org>
+         <org xml:id="EasternBaltic">
+            <region>Baltic</region>
+            <bloc type="continent">Europe</bloc>
+            <note>The Baltic people are located in the northeastern regions of Europe, among the Baltic states.</note>
+         </org>
+         <org xml:id="Western">
+            <region>
+               <offset>western</offset>
+               <bloc type="continent">Europe</bloc>
+            </region>
+            <note>Nazi racial ideology is not always clear, but it appears that by "Western Races," they are referring to people in France and Great Britain.</note>
+         </org>
+         <org xml:id="Falic">
+            <region>
+               <offset>eastern</offset>
+               <bloc type="country">Germany</bloc>
+            </region>
+            <note>It is not clear where exactly the Falic race is meant to reside, but from descriptions it is likely eastern and southeastern Germany.</note>
+         </org>
+         <org xml:id="SouthernRaces">
+            <region>
+               <offset>southern</offset>
+               <bloc type="continent">Europe</bloc>
+            </region>
+            <note>The description of the southern races is intentionally vague, since the Nazis were hesitant to say anything disparaging regarding Italians.</note>
+         </org>
+      </listOrg>
+   </standOff>
+</TEI>
