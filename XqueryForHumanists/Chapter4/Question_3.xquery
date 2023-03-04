@@ -15,7 +15,15 @@ declare context item := document {
 };
 
 (:Question 3, in Chicago Style:)
-fn:concat(/book/author, /book/title, /book/publisher/city, /book/publisher/press, /book/date)
+fn:concat(/book/author, ". ", /book/title, ". ", /book/publisher/city, ": ", /book/publisher/press, ", ", /book/date/@year, ".")
+
+
+
+
+
+
+
+
 
 
 

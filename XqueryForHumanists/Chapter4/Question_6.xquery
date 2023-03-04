@@ -7,4 +7,4 @@ declare context item := document {
 </name>
 };
 
-fn:contains(., "bb")
+/name/surname/fn:contains(., "ll")

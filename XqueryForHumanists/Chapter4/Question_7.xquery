@@ -8,7 +8,7 @@ declare context item := document {
         <date year="2003">2003</date>
         <publisher>
             <city>Cambridge</city>
-            <press>Balknap Press</press>
+            <press>Belknap Press</press>
         </publisher>        
     </book>
     <book>
