@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>This document is the ODD customization for the Blood and Races documentation project, created for HIST 630: Digital Humanities</p>
+        <!--Stuff about the project, not necessarily about the document itself-->
+      </publicationStmt>
+      <sourceDesc>
+        <p>The chapter "Blood and Race" comes from a handbook for the BDM - female division of the Hitler Youth - published by the Nazi Party in 1934.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="BDMIndoctrinationODD" start="TEI">
+        <moduleRef key="header"/>
+        <moduleRef key="core" exclude="binaryObject cb graphic hi ruby stage unit"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure" exclude="div1 div2 div3 div4 div5 div6 div7"/>
+        <moduleRef key="namesdates" exclude="age climate death floruit sex terrain"/>
+        <elementSpec module="namesdates" ident="orgName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change" usage="req">
+              <datatype>
+                <dataRef key="teidata.enumerated"/>
+              </datatype>
+              <valList type="closed" mode="replace">
+                <valItem ident="race">
+                  <gloss>Race</gloss>
+                  <desc>A race as defined officially by the Nazi Party.</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec module="namesdates" ident="placeName" mode="change">
+          <attList>
+            <attDef ident="type" mode="change" usage="req">
+              <datatype>
+                <dataRef key="teidata.enumerated"/>
+              </datatype>
+              <valList>
+                <valItem ident="region">
+                  <gloss>Region</gloss>
+                  <desc>An area, as defined by the Nazis, that contains a majority population of a particular race.</desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
+
+<!-- Things to consider: defining locations (Standoff or ODD?), showing who a title is referring to -->
