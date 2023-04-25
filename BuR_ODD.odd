@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,6 +36,23 @@
               </valList>
             </attDef>
           </attList>
+        </elementSpec>
+        <elementSpec module="namesdates" ident="orgName" mode="add">
+          <constraintSpec ident="ref-on-orgName" scheme="schematron">
+            <constraint>
+              <sch:rule context="tei:orgName">
+                <sch:let name="standoff"
+                  value="doc('https://raw.githubusercontent.com/abbyfollis/abbyfollis.github.io/main/StandoffMarkup.xml')"/>
+                <sch:let name="RaceIDs"
+                  value="$standoff//org/@xml:id"/>
+                <sch:let name="error" value="."/>
+                <sch:assert test="@ref = $RaceIDs"
+                  ><sch:value-of select="$error"/>
+                    is not an acceptable reference for race in the standoff markup for the Blood and Race translation.
+                </sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>
         </elementSpec>
         <elementSpec module="namesdates" ident="placeName" mode="change">
           <attList>
