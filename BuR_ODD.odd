@@ -37,37 +37,59 @@
             </attDef>
           </attList>
         </elementSpec>
-        <elementSpec module="namesdates" ident="orgName" mode="add">
+        <elementSpec module="namesdates" ident="orgName" mode="change">
           <constraintSpec ident="ref-on-orgName" scheme="schematron">
             <constraint>
-              <sch:rule context="tei:orgName">
+              <sch:rule context="tei:text//tei:orgName/@ref">
                 <sch:let name="standoff"
                   value="doc('https://raw.githubusercontent.com/abbyfollis/abbyfollis.github.io/main/StandoffMarkup.xml')"/>
                 <sch:let name="RaceIDs"
-                  value="$standoff//org/@xml:id"/>
+                  value="$standoff//tei:org/@xml:id"/>
+                <sch:let name="racerefIDs" value="for $i in $RaceIDs return concat('#', $i)"/>
                 <sch:let name="error" value="."/>
-                <sch:assert test="@ref = $RaceIDs"
+                <sch:assert test=". = $racerefIDs"
                   ><sch:value-of select="$error"/>
-                    is not an acceptable reference for race in the standoff markup for the Blood and Race translation.
+                      is not an acceptable race as identified in the Standoff Markup for the translation of Blood and Race.
                 </sch:assert>
               </sch:rule>
             </constraint>
           </constraintSpec>
         </elementSpec>
+       <elementSpec module="core" ident="foreign" mode="change">
+         <constraintSpec ident="language-is-de" scheme="schematron">
+           <constraint>
+             <sch:rule context="tei:foreign">
+               <sch:let name="Encode" 
+                 value="doc('https://raw.githubusercontent.com/abbyfollis/abbyfollis.github.io/main/BuR_Encode.xml')"/>
+               <sch:let name="language"
+                 value="$Encode//foreign/@xml:lang"/>
+               <sch:let name="error" value="."/>
+               <sch:assert test="@xml:lang = 'de'">
+                 <sch:value-of select="$error"/>
+                 is not acceptble. It should only be in German >:(
+               </sch:assert>
+             </sch:rule>
+           </constraint>
+         </constraintSpec>
+       </elementSpec>
         <elementSpec module="namesdates" ident="placeName" mode="change">
-          <attList>
-            <attDef ident="type" mode="change" usage="req">
-              <datatype>
-                <dataRef key="teidata.enumerated"/>
-              </datatype>
-              <valList>
-                <valItem ident="region">
-                  <gloss>Region</gloss>
-                  <desc>An area, as defined by the Nazis, that contains a majority population of a particular race.</desc>
-                </valItem>
-              </valList>
-            </attDef>
-          </attList>
+         <constraintSpec ident="location" scheme="schematron">
+           <constraint>
+             <!--This should make sure that each placename is appropriately pointed to a ref in the Standoff Markup-->
+             <sch:rule context="tei:text//tei:place/@ref">
+               <sch:let name="standoff"
+                 value="doc('https://raw.githubusercontent.com/abbyfollis/abbyfollis.github.io/main/StandoffMarkup.xml')"/>
+               <sch:let name="location"
+                 value="$standoff//tei:place/@xml:id"/>
+               <sch:let name="LocationOfRace" value="for $i in $location return concat('#', $i)"/>
+               <sch:let name="error" value="."/>
+               <sch:assert test=". = $LocationOfRace">
+                 <sch:value-of select="$error"/>
+                 is not a real place.
+               </sch:assert>
+             </sch:rule>
+           </constraint>
+         </constraintSpec>
         </elementSpec>
       </schemaSpec>
     </body>
