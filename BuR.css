@@ -1,0 +1,22 @@
+body{
+		background-color: green;
+		opacity: 0.3;
+}
+
+h2 {
+		text-align: center;
+		color: black;
+		font-family: "Garamond", serif;
+}
+
+h3{
+		text-align: left;
+		color: black;
+		font-family: "Garamond", serif;
+}
+
+p{
+		margin-left: 15%;
+		margin-right: 15%;
+		font-family: "Garamond", serif;
+}
